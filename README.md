@@ -4,7 +4,7 @@
 
 A passionate frontend developer from France
 
-- 🔭 I’m currently working on a web project with [Alex](https://github.com/alexwauquier), [Grégory](https://github.com/GregorySpro), and [Karim](https://github.com/abdelkarim1907).
+- 🔭 I’m currently working on a web project with [Alex](https://github.com/alexwauquier), [Grégory](https://github.com/GregorySpro) and [Karim](https://github.com/abdelkarim1907).
 - 🌱 I’m currently learning PHP.
 - 📫 How to reach me: konieczkowicz.raphael@gmail.com
 - ⚡ Fun fact: I measure 170vh.
